@@ -50,10 +50,10 @@ int main()
 			else
 				thang2--;
 				
-			if(thang == 4 || thang == 6 || thang == 9 || thang == 11)
+			if(thang2 == 4 || thang2 == 6 || thang2 == 9 || thang2 == 11)
 				ngay2 = 30;
-			else if(thang == 2)
-				ngay2 = 28 + ((nam % 4 == 0 && nam % 100 != 0) || nam % 400 == 0);
+			else if(thang2 == 2)
+				ngay2 = 28 + ((nam2 % 4 == 0 && nam2 % 100 != 0) || nam2 % 400 == 0);
 			else
 				ngay2 = 31;
 		} 

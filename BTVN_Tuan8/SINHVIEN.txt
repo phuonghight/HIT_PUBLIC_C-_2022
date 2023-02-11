@@ -1,0 +1,21 @@
+
+==============DANH SACH SINH VIEN==============
+
+STT MSV       Ho va ten                     Que quan                      Diem      
+1    1         1                             1                             1         
+2    3         3                             3                             3         
+
+==============DANH SACH SINH VIEN==============
+
+STT MSV       Ho va ten                     Que quan                      Diem      
+1    9         9                             9                             9         
+2    1         1                             1                             1         
+3    3         3                             3                             3         
+
+==============DANH SACH SINH VIEN==============
+
+STT MSV       Ho va ten                     Que quan                      Diem      
+1    9         9                             9                             9         
+2    10        10                            10                            10        
+3    1         1                             1                             1         
+4    3         3                             3                             3         
